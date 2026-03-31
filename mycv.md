@@ -1,6 +1,7 @@
 # Future CV : Yoonkyong Lee (가상 이력서: 이윤경)
 > 
-> *Space Data Systems Engineer · Mission Data Engineer*
+> *Space Data Systems Engineer · Mission Data Engineer*  
+[Resume](mycv.md) | [About Me](about.md)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
